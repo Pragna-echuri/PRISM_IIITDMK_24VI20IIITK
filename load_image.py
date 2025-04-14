@@ -242,7 +242,7 @@ def save_gifs(tgr, video_id, test_model):
     import imageio
     tgr_imgs = (tgr + 1) * 0.5
     tgr_imgs = (tgr_imgs * 255.).numpy().astype(np.uint8).transpose(0, 2, 3, 1)
-    save_path = os.path.join(os.path.dirname("z"), 'videos')
+    save_path = os.path.join(os.path.dirname("utils"), 'videos')
     print(save_path)
     if not os.path.exists(save_path):
         os.makedirs(save_path)
