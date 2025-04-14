@@ -14,6 +14,9 @@ Steps to build model:
 VQ-VAE Training
 MAGE Training
 
+ Trained model:
+ https://drive.google.com/file/d/1lPvr55w1gQRu1F9BmoWfe6wKVlau2G6U/view?usp=drive_link
+
  Result trained model:
  models/MAGE+/catergenv2_diverse/model_best.pth
 
@@ -23,6 +26,12 @@ MAGE Training
  03) Enter 0 for avi 1 for yuv as per the input file type
  04) Make a separate folder in base directory as Video 
  05) The output will be stored in Video folder
+
+ DEMO:
+ https://drive.google.com/file/d/1uaiZiQgK4F-_T4t8_lQjKRsZ1PUY5moL/view?usp=drive_link
+
+ 
+
 
  
  
