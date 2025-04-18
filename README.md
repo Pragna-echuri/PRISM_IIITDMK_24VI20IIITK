@@ -9,7 +9,8 @@ The system is based on MAGE+, which builds upon a VQ-VAE architecture and an aut
 
 Base repository:
 https://github.com/AMAN-22byte/SAMSUNG_PRISM/blob/main/mage2/README.md
-// link to github paper 
+link to github paper: 
+https://arxiv.org/pdf/2112.02815 
 
 Steps to build model:
 VQ-VAE Training
